@@ -1,3 +1,3 @@
-class Cat
+class Cat 
   # code goes here
 end
